@@ -1,0 +1,21 @@
+# Core
+fastapi==0.115.6
+uvicorn==0.34.0
+
+# Database
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+alembic==1.14.0
+
+# GitHub API
+requests==2.32.3
+
+# Scheduling
+apscheduler==3.10.4
+
+# Environment
+python-dotenv==1.0.1
+
+# Dev tools
+ruff==0.9.1
+black==24.10.0
